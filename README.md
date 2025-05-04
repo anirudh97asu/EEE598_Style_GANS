@@ -323,13 +323,17 @@ The model progressively generates higher resolution images as training progresse
 5. 64×64 resolution: Detailed features, expressions
 6. 128×128 resolution: High-quality anime faces
 
-### Sample Images
+### Sample Generation
 
-*[Insert sample generated images at different resolutions]*
+*[![Video Title](![image](https://github.com/user-attachments/assets/ceba4648-05db-48fa-8406-6217c7c82aa5)
+)](https://youtu.be/l49hhokTm7k)
 
-### Latent Space Interpolation
+Click the image above to watch the tutorial video on YouTube.
 
-*[Insert latent space interpolation examples]*
+### Learned Represents across various Resolutions after Training
+
+![image](https://github.com/user-attachments/assets/bbafc49c-b625-4f75-95cd-b22a9ebfcb07)
+
 
 ## Troubleshooting
 
