@@ -68,7 +68,7 @@ This diversity makes it an excellent dataset for training a StyleGAN model, allo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stylegan-anime.git
+git clone https://github.com/anirudh97asu/EEE598_Style_GANS
 cd stylegan-anime
 ```
 
