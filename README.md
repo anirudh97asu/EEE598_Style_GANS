@@ -325,7 +325,7 @@ The model progressively generates higher resolution images as training progresse
 
 ### Sample Generation
 
-*[![Video Title](![image](https://github.com/user-attachments/assets/ceba4648-05db-48fa-8406-6217c7c82aa5)
+*[![Generation across various Resolutions](![image](https://github.com/user-attachments/assets/ceba4648-05db-48fa-8406-6217c7c82aa5)
 )](https://youtu.be/l49hhokTm7k)
 
 Click the image above to watch the tutorial video on YouTube.
