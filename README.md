@@ -323,7 +323,7 @@ The model progressively generates higher resolution images as training progresse
 5. 64×64 resolution: Detailed features, expressions
 6. 128×128 resolution: High-quality anime faces
 
-### Sample Generation
+### Sample Generation Video
 
 *[![Generation across various Resolutions](![image](https://github.com/user-attachments/assets/ceba4648-05db-48fa-8406-6217c7c82aa5)
 )](https://youtu.be/l49hhokTm7k)
