@@ -88,7 +88,7 @@ pip install -r requirements.txt
 To train the StyleGAN model with default parameters:
 
 ```bash
-python main.py --dataset path/to/anime_face_dataset --out_dir output
+python train.py --dataset path/to/anime_face_dataset --out_dir output
 ```
 
 #### Important Parameters:
@@ -345,7 +345,7 @@ Click the image above to watch the tutorial video on YouTube.
 - Try training on a lower target resolution
 
 ```bash
-python main.py --dataset path/to/anime_face_dataset --batch_sizes "512,512,256,128,64,32" --in_channels 128 --target_img_size 64
+python train.py --dataset path/to/anime_face_dataset --batch_sizes "512,512,256,128,64,32" --in_channels 128 --target_img_size 64
 ```
 
 #### Mode Collapse
